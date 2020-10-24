@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="https://vuejs.org/images/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="Vue logo" src="https://hackth.line.me/wp-content/themes/Conference_Pro/logo2020.png">
+    <HelloWorld msg="LINE HACK 2020"/>
   </div>
 </template>
 
@@ -17,12 +17,15 @@ export default {
 </script>
 
 <style>
+  body {
+    background:#252525;
+  }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #efefef;
   margin-top: 60px;
 }
 </style>
